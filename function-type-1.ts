@@ -26,3 +26,9 @@ function test5(name){
     }
     return Math.floor(Math.random());
 }
+
+// input type is any but return value must be string
+function test6(name):string{
+    return name;
+    // return Math.floor(Math.random()); => Error occured
+}
