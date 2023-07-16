@@ -10,7 +10,7 @@ function test2(name:string){
 function test3(name){
     return "hi dear: " + name;
 }
-
+ 
 // return type is string or number
 function test4(name:string){
     if(name="Moeinnajafi1998"){
